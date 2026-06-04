@@ -1,0 +1,5 @@
+import{n as e}from"./chunk-DnJy8xQt.js";import{t}from"./jsx-runtime-BpX3lQ6F.js";function n({activeCount:e}){return(0,r.jsxs)(`div`,{className:`task-meter`,"aria-label":`${e} active tasks`,children:[(0,r.jsx)(`strong`,{children:e}),(0,r.jsx)(`span`,{children:`left`})]})}var r,i=e((()=>{r=t(),n.__docgenInfo={description:``,methods:[],displayName:`TaskMeter`,props:{activeCount:{required:!0,tsType:{name:`number`},description:``}}}})),a,o,s,c;e((()=>{i(),a={title:`Components/TaskMeter`,component:n,args:{activeCount:4}},o={},s={args:{activeCount:0}},o.parameters={...o.parameters,docs:{...o.parameters?.docs,source:{originalSource:`{}`,...o.parameters?.docs?.source}}},s.parameters={...s.parameters,docs:{...s.parameters?.docs,source:{originalSource:`{
+  args: {
+    activeCount: 0
+  }
+}`,...s.parameters?.docs?.source}}},c=[`ActiveTasks`,`Empty`]}))();export{o as ActiveTasks,s as Empty,c as __namedExportsOrder,a as default};
